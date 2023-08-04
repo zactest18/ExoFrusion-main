@@ -1,0 +1,5 @@
+competences:
+
+front-end
+Seo
+Scrapping
